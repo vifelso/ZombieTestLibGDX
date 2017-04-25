@@ -1,0 +1,12 @@
+
+buttonYellow.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+buttonYellow
+  rotate: false
+  xy: 1, 1
+  size: 104, 52
+  orig: 104, 52
+  offset: 0, 0
+  index: -1
